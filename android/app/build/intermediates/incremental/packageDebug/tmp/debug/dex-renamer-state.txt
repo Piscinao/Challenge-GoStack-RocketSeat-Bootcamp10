@@ -1,0 +1,4 @@
+#Thu Dec 17 14:10:31 BRT 2020
+base.0=/home/piscinao/Desktop/Desktop Organizar/GoStack-Desafios/14-DecimoPrimeiroDesafio-GoRestaurantWeb/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
